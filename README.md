@@ -1,5 +1,7 @@
 # CodeZen Ecosystem
 
+🔗 **Live Website:** [https://codezen.neodyit.in](https://codezen.neodyit.in)
+
 CodeZen is CGC University's student-led technology community empowering students through technical excellence, leadership, innovation, and industry-ready skills. This repository contains the source code for the CodeZen Ecosystem web application.
 
 ## 🚀 Quick Start
@@ -41,7 +43,7 @@ To get started with the project locally:
 We welcome contributions from everyone in the community! If you're looking to help out, please follow these steps:
 
 ### 1. Find an Issue
-- Check our [Issues Tracker](https://github.com/your-org/Codezen-Ecosystem/issues) for open tasks.
+- Check our [Issues Tracker](https://github.com/neodyit/Codezen-Ecosystem/issues) for open tasks.
 - Look for issues tagged with `good first issue` or `help wanted` if you're a beginner.
 - If you have a new feature idea or found a bug, please **open a new issue** to discuss it before writing code.
 
